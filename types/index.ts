@@ -1,3 +1,4 @@
+/** Product type for Xicam uniforms */
 export interface Product {
   id: string;
   name: string;
