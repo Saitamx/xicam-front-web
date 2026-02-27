@@ -14,8 +14,6 @@ export interface Product {
   color?: string;
   canBeEmbroidered?: boolean;
   embroideryPrice?: number;
-  size?: string;
-  color?: string;
   createdAt: string;
   updatedAt: string;
 }
